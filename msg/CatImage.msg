@@ -1,0 +1,2 @@
+string url
+sensor_msgs/CompressedImage image
