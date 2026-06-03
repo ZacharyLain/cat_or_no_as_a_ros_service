@@ -1,2 +1,2 @@
 string url
-sensor_msgs/CompressedImage image
+sensor_msgs/Image image
